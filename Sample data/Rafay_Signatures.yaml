@@ -1,0 +1,6 @@
+train: "C:/Users/Shaikh Abdul Rafay/Desktop/Rafay2/Train"
+val: "C:/Users/Shaikh Abdul Rafay/Desktop/Rafay2/Val"
+
+nc: 1
+
+names: ['True']
