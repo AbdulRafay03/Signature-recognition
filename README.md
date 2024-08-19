@@ -33,7 +33,7 @@ This repository contains code for training and testing a YOLOv10 model for signa
 
 1. Clone this repository.
 2. Install the required dependencies.
-3. Run the `Setup.ipynb` notebook to replicate the work or set up your environment.
+3. Run the `main.py` notebook to replicate the work or set up your environment.
 4. Use the GUI to start training or testing the model.
 
 ## Acknowledgements
